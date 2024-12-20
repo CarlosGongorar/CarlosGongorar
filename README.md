@@ -8,7 +8,7 @@ Hello, I am Carlos Santiago Gongora Ramirez, but my friends call me Yuyi. Since 
 
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [carlosgongorar50@gmail.com](mailto:carlosgongorar50@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning NextJS
 * ⚡  I'm a superhero... a little bit crazier
 
 ### Skills
