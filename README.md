@@ -4,7 +4,7 @@ Hi 👋 My name is Carlos Gongora
 Entrepreneur and Software Developer
 -----------------------------------
 
-Hello, I am Carlos Santiago Gongora Ramirez, but my friends call me Yuyi. Since I was 8 years old, I fell in love with the world of programming. I am a Systems Engineering student at the Francisco José de Caldas District University and I am also co-founder of SoftCo, a software development company. In addition to programming, I am a fan of video games. I also love volleyball, the gym and staying active. When I'm not working or playing, I like to just hang out with my friends, share laughs, and enjoy good times. For me, life is a balance between doing what I love and enjoying the company of the people I love.
+Hello, I am Carlos Santiago Gongora Ramirez, but my friends call me Yuyi. Since I was 8 years old, I fell in love with the world of programming. I am a Systems Engineering student at the Francisco José de Caldas District University and I am also founder of SoftCo, a software development company. In addition to programming, I am a fan of video games. I also love volleyball, the gym and staying active. When I'm not working or playing, I like to just hang out with my friends, share laughs, and enjoy good times. For me, life is a balance between doing what I love and enjoying the company of the people I love.
 
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [carlosgongorar50@gmail.com](mailto:carlosgongorar50@gmail.com)
